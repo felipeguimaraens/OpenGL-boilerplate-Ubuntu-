@@ -1,7 +1,7 @@
 # OpenGL Boilerplate Ubuntu
 
 Repository created to make easier to program OpenGL using **GLEW** and **FREEGLUT** within Ubuntu (Linux) systems.
-Tested at Ubuntu 24.04 but might work for other versions.
+Tested on Ubuntu 24.04 but might work for other versions.
 
 ## Setup
 
